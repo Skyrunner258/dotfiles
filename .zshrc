@@ -214,7 +214,9 @@ ZSH_THEME="xiong-chiamiov"
 plugins=(
 	git
 	archlinux
-	cp
+	dnf
+	yum
+	debian	
 	colored-man-pages
 	sudo
 	vscode
